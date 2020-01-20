@@ -22,3 +22,10 @@ h1 {
   width: 80%;
   font-size: 20px;
 }
+
+.links {
+  margin-top: 50px;
+  margin-bottom: 90px;
+  font-size: 20px;
+  animation: fadein 1.8s ease-in;
+}
