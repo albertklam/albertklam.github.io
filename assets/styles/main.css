@@ -26,3 +26,7 @@ body {
 .top_logo:hover {
   opacity: 1;
 }
+
+#githubcontainer {
+  margin-left: 10px;
+}
