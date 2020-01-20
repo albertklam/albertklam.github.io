@@ -1,11 +1,13 @@
 * {
   font-family: verdana;
+  text-align:center
 }
 
 p {
-  color; purple;
+  color: goldenrod;
 }
 
-body {
+h1 {
   background-color: lightblue;
+  color:#4b2e83
 }
