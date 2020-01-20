@@ -1,12 +1,7 @@
-* {
+body {
   font-family: verdana;
-  text-align:center;
-}
-
-p {
   color: goldenrod;
-}
-
-h1 {
-  color: #4b2e83;
+  margin: 0px;
+  margin-bottom: 100px;
+  text-align: center;
 }
