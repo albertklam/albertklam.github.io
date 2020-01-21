@@ -14,6 +14,7 @@ h1 {
   font-weight: 300;
   margin-bottom: 0;
   line-height: 1.4em;
+  animation: fade-in 1.8s;
 }
 
 .about {
@@ -21,14 +22,14 @@ h1 {
   line-height: 1.7em;
   width: 80%;
   font-size: 20px;
-  animation: fade-in 1.8s infinite;
+  animation: fade-in 1.8s;
 }
 
 .links {
   margin-top: 50px;
   margin-bottom: 90px;
   font-size: 20px;
-  animation: fade-in 1.8s infinite;
+  animation: fade-in 1.8s;
 }
 
 @-webkit-keyframes fade-in {
