@@ -48,3 +48,8 @@ h1 {
   0%   { opacity: 0; }
   100% { opacity: 1; }
 }
+
+html {
+    visibility: visible;
+    opacity: 1;
+}
