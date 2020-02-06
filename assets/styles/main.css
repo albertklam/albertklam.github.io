@@ -11,12 +11,12 @@ body {
 /* Layout inspired by davidwei.me */
 h1 {
   margin-top: 100px;
-  text-align: center;
   font-size: 48px;
   font-weight: 300;
   margin-bottom: 0;
-  line-height: 1.4em;
   animation: fade-in 1.8s;
+  text-align: center;
+  display: block;
 }
 
 .title {
@@ -66,6 +66,7 @@ h1 {
   font-size: 24px;
   text-align: center;
   animation: fade-in 1.8s;
+  margin-top: 20px;
 }
 
 html {
