@@ -10,6 +10,7 @@ body {
 
 .flex-container {
   display: flex;
+  margin-top: 1rem;
 }
 
 .child {
@@ -19,11 +20,12 @@ body {
 /** Text Styling **/
 
 .text-container {
-  margin-left: 100px;
+  margin-left: 8rem;
+  width: 70%;
 }
 
 .about {
-  line-height: 250%;
+  line-height: 300%;
 }
 
 .title {
@@ -34,13 +36,13 @@ body {
 
 h1 {
   margin-top: 100px;
-  font-size: 60px;
+  font-size: 70px;
   font-weight: bold;
   animation: fade-in 1.8s;
 }
 
 p {
-  font-size: 18px;
+  font-size: 23px;
   font-weight: 300;
   margin-bottom: 0;
   animation: fade-in 1.8s;
