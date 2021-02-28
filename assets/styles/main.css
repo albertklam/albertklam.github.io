@@ -36,7 +36,7 @@ body {
 /** Fade in Animation **/
 
 * {
-  animation: fade-in .8s;
+  animation: fade-in 1.5s;
   visibility: visible;
   opacity: 1;
 }
@@ -109,12 +109,12 @@ body {
 
   h1 {
     margin-top: 100px;
-    font-size: 70px;
+    font-size: 60px;
     font-weight: bold;
   }
 
   p {
-    font-size: 23px;
+    font-size: 21px;
     font-weight: 300;
     margin-bottom: 0;
     display: block;
